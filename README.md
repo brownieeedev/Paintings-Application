@@ -1,6 +1,6 @@
 # Paintings-Application
 
-This C# application is connected to MongoDB database and a Firebase cloud storage with pictures, and working together with my painting website project. In this program you can look through user, order, and the painting informations, run queries, and searches and also validate the uploads, so it gets promoted on the website.
+This C# application created by me, is connected to MongoDB database and a Firebase cloud storage with pictures, and working together with my painting website project. In this program you can look through user, order, and the painting informations, run queries, and searches and also validate the uploads, so it gets promoted on the website.
 
 ![image](https://user-images.githubusercontent.com/130675477/236815084-84811945-a020-44d8-b0e9-5da932f4d75e.png)
 ![image](https://user-images.githubusercontent.com/130675477/236815182-e0a6d5f8-b505-4dfe-9470-48d45b09357c.png)
